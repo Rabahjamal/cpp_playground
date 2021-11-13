@@ -1,0 +1,170 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "templates",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "templates",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "concurrency",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "concurrency",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "sorting",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sorting",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "trie",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "trie",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "graph_algorithms",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "graph_algorithms",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "cpp_playground",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "concurrency::@570c1f3505a4033b9074",
+					"jsonFile" : "target-concurrency-Debug-3b05a9ead1e0a8951ac1.json",
+					"name" : "concurrency",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "graph_algorithms::@a6330d3eb500464b3aab",
+					"jsonFile" : "target-graph_algorithms-Debug-2bbeabb7670cd39c01c3.json",
+					"name" : "graph_algorithms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "sorting::@731c94c3589c2bb2a028",
+					"jsonFile" : "target-sorting-Debug-30efa42ff62eb020c9b8.json",
+					"name" : "sorting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "templates::@9ed9d281467a41a1df88",
+					"jsonFile" : "target-templates-Debug-cc5e7e56a0414bf6f017.json",
+					"name" : "templates",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "trie::@c1f7da793510db68f4f2",
+					"jsonFile" : "target-trie-Debug-c8fba99a286a32e6b00c.json",
+					"name" : "trie",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build",
+		"source" : "/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

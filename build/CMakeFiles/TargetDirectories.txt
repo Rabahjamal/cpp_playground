@@ -1,0 +1,17 @@
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/CMakeFiles/rebuild_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/CMakeFiles/edit_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/templates/CMakeFiles/rebuild_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/templates/CMakeFiles/edit_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/templates/CMakeFiles/templates.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/concurrency/CMakeFiles/rebuild_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/concurrency/CMakeFiles/edit_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/concurrency/CMakeFiles/concurrency.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/sorting/CMakeFiles/edit_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/sorting/CMakeFiles/rebuild_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/sorting/CMakeFiles/sorting.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/trie/CMakeFiles/rebuild_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/trie/CMakeFiles/edit_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/trie/CMakeFiles/trie.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/graph_algorithms/CMakeFiles/rebuild_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/graph_algorithms/CMakeFiles/edit_cache.dir
+/media/rabah/523d9bfe-8bbf-4a49-b881-492cd338d77b/rabah/workspace/C++/projects/cpp_playground/build/graph_algorithms/CMakeFiles/graph_algorithms.dir
